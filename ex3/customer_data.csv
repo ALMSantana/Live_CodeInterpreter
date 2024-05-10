@@ -1,0 +1,101 @@
+ID;NOME;IDADE;CATEGORIA_PREFERIDA;MEDIA_TICKET_MENSAL;TICKET_MES_ATUAL;E_MAIL;ESTADO;REGIAO_DO_BRASIL;MEDIA_ACESSOS_MENSAIS
+1;Nathan Cardoso;76;Vestuário;4413.98;1729.94;jrodrigues@yahoo.com.br;AM;Sul;5
+2;Daniela da Paz;64;Livros;2529.58;3790.81;iancavalcanti@gmail.com;SC;Centro-Oeste;24
+3;Pedro Teixeira;74;Móveis;2174.19;896.98;pedro-miguel94@hotmail.com;MS;Nordeste;81
+4;Gustavo Henrique Peixoto;64;Livros;3214.29;1696.5;kfogaca@fogaca.org;DF;Norte;42
+5;Larissa Gonçalves;77;Beleza;3420.51;842.26;znovaes@melo.org;SP;Nordeste;72
+6;Yago Vieira;62;Vestuário;913.15;1103.91;fernando03@ig.com.br;CE;Nordeste;22
+7;Pedro Miguel Nascimento;22;Móveis;4868.96;473.28;alexia95@sales.br;RJ;Nordeste;20
+8;Evelyn Vieira;36;Móveis;2991.97;4747.81;costelayasmin@dias.com;SC;Sul;12
+9;Vicente Novaes;58;Eletrônicos;2712.91;1251.32;costelaana-clara@uol.com.br;MT;Nordeste;65
+10;Rafaela Correia;72;Alimentos;1417.38;2859.61;ana-vitoriabarros@nogueira.com;RJ;Sudeste;8
+11;Dra. Ana Julia Castro;40;Esportes;1996.18;1873.5;eribeiro@ig.com.br;MG;Sudeste;76
+12;Julia Dias;53;Vestuário;4935.27;2989.5;mrodrigues@ig.com.br;PB;Sudeste;63
+13;Bruna da Paz;47;Esportes;2619.3;2815.32;henriquecarvalho@hotmail.com;MG;Sul;17
+14;Otávio Fogaça;70;Livros;470.2;4299.16;sofiarodrigues@azevedo.org;RO;Norte;43
+15;Sarah Vieira;31;Móveis;367.57;3856.81;odias@freitas.com;AC;Centro-Oeste;45
+16;Sra. Maria Clara Monteiro;30;Alimentos;3483.7;2210.16;msales@nascimento.org;PE;Nordeste;87
+17;Luigi Araújo;69;Esportes;3274.21;4951.28;luiz-miguel49@caldeira.br;RJ;Norte;56
+18;Alexandre Freitas;65;Móveis;1137.1;1067.36;ceciliaaraujo@peixoto.net;RS;Centro-Oeste;88
+19;Luigi Azevedo;67;Esportes;4654.63;2666.12;silvamarcela@peixoto.com;AP;Norte;88
+20;Isabelly Ramos;49;Eletrônicos;4986.94;3526.33;psales@uol.com.br;TO;Norte;22
+21;Luiz Henrique Martins;77;Esportes;561.54;2570.99;ncardoso@jesus.br;AP;Nordeste;94
+22;Isaac Campos;22;Alimentos;1443.74;1318.1;limalarissa@ig.com.br;PR;Sul;33
+23;Melissa Campos;57;Vestuário;1392.74;4910.9;ypinto@barbosa.com;MA;Sul;80
+24;Anthony Dias;57;Beleza;3472.43;2767.61;maria-sophiabarros@hotmail.com;AP;Sul;48
+25;Yuri Oliveira;20;Esportes;4678.29;2719.6;maria-julia26@bol.com.br;RR;Sul;5
+26;Yago Costa;43;Vestuário;838.94;2348.69;maysa00@uol.com.br;SC;Sul;34
+27;Lívia Moura;62;Vestuário;4264.72;881.71;zcarvalho@lima.br;RN;Sudeste;68
+28;Luana Costa;43;Esportes;3459.62;127.88;maria-alice20@yahoo.com.br;MA;Sul;20
+29;Bruno Pereira;32;Alimentos;4865.62;1726.18;poliveira@ig.com.br;CE;Nordeste;66
+30;Luiz Fernando Correia;49;Móveis;2026.67;3987.7;uviana@caldeira.br;AL;Norte;42
+31;Maria Julia Viana;30;Móveis;3278.45;323.41;ana-clara51@carvalho.br;AC;Norte;47
+32;Agatha Fernandes;75;Eletrônicos;2038.77;4766.2;danilo83@ig.com.br;SE;Sul;63
+33;Maria Luiza Duarte;73;Eletrônicos;3831.18;3780.72;joao-pedromoraes@uol.com.br;AC;Norte;62
+34;Stephany Ribeiro;22;Livros;2228.7;2898.41;isisgoncalves@cunha.com;AC;Norte;46
+35;Dra. Milena Oliveira;39;Beleza;3421.7;1661.24;novaesluna@hotmail.com;SP;Nordeste;31
+36;Daniel Peixoto;60;Vestuário;2849.43;4670.7;nalmeida@yahoo.com.br;PB;Norte;28
+37;Maria Eduarda Novaes;77;Beleza;2435.68;2242.34;yferreira@porto.com;SC;Nordeste;14
+38;Ryan Barbosa;74;Eletrônicos;1349.87;443.92;freitasana@uol.com.br;RO;Sudeste;49
+39;Ana Beatriz Nunes;73;Livros;4795.64;2698.5;lporto@ig.com.br;TO;Sul;10
+40;Manuela Nogueira;18;Esportes;4323.74;2216.11;fernandesarthur@ig.com.br;RR;Centro-Oeste;4
+41;Maria Fernanda Souza;23;Livros;1656.39;1875.24;luiz-gustavoteixeira@yahoo.com.br;SE;Norte;90
+42;Dr. Vitor Aragão;66;Alimentos;2323.21;1939.25;rocharebeca@aragao.com;PA;Nordeste;26
+43;Alana Costa;21;Vestuário;1020.71;708.23;pedro-henrique08@gmail.com;AP;Nordeste;18
+44;Brenda da Rocha;73;Vestuário;278.96;1791.81;andresantos@hotmail.com;GO;Sudeste;62
+45;Leandro Carvalho;43;Vestuário;4168.69;3683.69;marinacostela@correia.com;SC;Nordeste;71
+46;Srta. Sabrina Viana;58;Livros;2114.14;626.28;da-rochalivia@da.com;AL;Centro-Oeste;28
+47;Natália Ribeiro;47;Móveis;835.5;3677.11;sarahpinto@pires.br;RJ;Sul;83
+48;João Jesus;57;Eletrônicos;4906.61;3507.78;isadoralopes@martins.org;RO;Sudeste;13
+49;Eduarda Rodrigues;64;Alimentos;980.88;2177.24;da-costaclarice@hotmail.com;MG;Centro-Oeste;63
+50;Brenda Dias;68;Vestuário;4187.16;4629.74;matheusrodrigues@yahoo.com.br;MT;Sul;8
+51;João Felipe Barbosa;66;Vestuário;4360.41;3686.56;silvaeloah@yahoo.com.br;PA;Sudeste;62
+52;Ana Vitória Barros;51;Vestuário;3065.7;728.62;jesusthales@ig.com.br;AC;Sudeste;41
+53;Calebe Ramos;38;Vestuário;3409.11;1233.69;gsouza@costa.br;TO;Sul;58
+54;Sr. Heitor Farias;39;Vestuário;2996.89;4754.66;almeidaclara@cardoso.com;PI;Nordeste;94
+55;Letícia Porto;42;Alimentos;248.81;1110.41;ana-laura55@costa.br;AM;Nordeste;5
+56;Thales Cardoso;44;Eletrônicos;3519.86;3755.72;guilhermemelo@uol.com.br;MS;Nordeste;6
+57;Clara Costela;25;Livros;4153.37;1025.76;alexandre91@peixoto.br;SE;Sul;10
+58;Melissa Barros;40;Beleza;4756.73;1563.59;oliveiraemanuella@bol.com.br;SC;Sul;69
+59;Dra. Yasmin da Rosa;59;Vestuário;3475.56;3576.94;isadoranascimento@bol.com.br;GO;Nordeste;52
+60;Vitor Rocha;73;Vestuário;3597.7;1663.63;laismoura@cardoso.br;PA;Sudeste;52
+61;Sr. Rodrigo Oliveira;46;Esportes;895.81;167.34;kaiquepeixoto@yahoo.com.br;SE;Sudeste;21
+62;Levi Monteiro;37;Móveis;2418.46;2599.4;ubarros@castro.com;DF;Sul;14
+63;Emanuelly da Rocha;24;Livros;536.17;1223.75;ana-juliacosta@hotmail.com;PR;Nordeste;3
+64;Emilly Fogaça;23;Eletrônicos;817.38;2105.84;kporto@uol.com.br;AP;Centro-Oeste;66
+65;Enzo Gabriel Cunha;34;Móveis;351.34;1434.76;ppereira@aragao.com;MA;Centro-Oeste;41
+66;Helena Gonçalves;26;Livros;3839.59;2552.68;camposnatalia@bol.com.br;PB;Sul;88
+67;Lara Mendes;64;Alimentos;885.54;1294.62;jmartins@da.br;AL;Norte;16
+68;Sarah Moraes;47;Livros;747.71;1629.44;brenda73@da.br;RS;Sudeste;58
+69;Thiago Barbosa;23;Alimentos;1488.3;1814.18;vbarros@da.com;SP;Norte;34
+70;Carolina Melo;32;Beleza;3567.74;2889.55;iporto@uol.com.br;AC;Norte;17
+71;Sr. Ian Monteiro;62;Eletrônicos;1764.73;3788.17;correiaisabel@ig.com.br;PR;Sul;10
+72;Isadora Nogueira;64;Livros;1087.19;4351.49;igor27@ramos.net;MS;Sudeste;94
+73;Cecília Lima;52;Beleza;2320.74;1074.12;vitorviana@hotmail.com;GO;Sudeste;48
+74;Lívia Cardoso;65;Esportes;684.81;721.15;silveiraalice@goncalves.com;GO;Sudeste;9
+75;Kevin Pinto;28;Livros;123.28;4120.72;osantos@bol.com.br;BA;Nordeste;66
+76;Luiz Miguel Monteiro;57;Eletrônicos;733.42;3808.18;silveiramarcela@bol.com.br;PE;Sul;79
+77;Juan Silveira;52;Beleza;207.11;812.44;silvaalicia@dias.com;RJ;Norte;9
+78;Maria Clara da Paz;46;Esportes;3326.8;4757.88;clarateixeira@yahoo.com.br;AL;Norte;3
+79;Srta. Marina da Luz;49;Esportes;2972.31;4459.96;amanda89@teixeira.br;DF;Sudeste;2
+80;Maria Fernanda Moraes;68;Livros;3749.81;3266.22;vicente12@santos.net;MA;Centro-Oeste;97
+81;João Azevedo;37;Beleza;2763.79;709.91;joao-pedro52@monteiro.com;ES;Nordeste;21
+82;Sra. Maysa Pereira;35;Móveis;2386.13;2023.55;vitormoraes@viana.br;AM;Sul;17
+83;Ana Clara da Luz;31;Vestuário;3607.2;1544.3;osales@campos.net;BA;Nordeste;43
+84;Dra. Isabel Barbosa;33;Alimentos;1390.26;2220.73;marcela42@ribeiro.com;AM;Sudeste;17
+85;Danilo Vieira;67;Livros;3256.27;3861.71;nrocha@campos.com;PA;Sul;37
+86;Bernardo Dias;21;Vestuário;2009.19;3854.8;pietrada-rocha@jesus.org;BA;Centro-Oeste;11
+87;Fernando Porto;76;Eletrônicos;3758.63;3563.23;mda-mata@jesus.net;AL;Sul;21
+88;Joaquim Rodrigues;78;Livros;4521.79;4445.85;xda-rocha@da.com;RO;Sul;67
+89;Pietro Nascimento;76;Alimentos;626.93;280.51;augustocavalcanti@cunha.br;ES;Sul;62
+90;Gustavo Henrique Teixeira;76;Livros;4905.32;3563.32;carvalhocarolina@gmail.com;SE;Sul;18
+91;Kamilly Farias;72;Vestuário;1479.7;4423.12;rda-rocha@gmail.com;SC;Nordeste;71
+92;Maria Alice da Costa;21;Alimentos;1641.4;158.4;bernardonunes@ig.com.br;PA;Nordeste;98
+93;Sr. Breno Porto;44;Móveis;1115.74;2151.31;da-matasophie@yahoo.com.br;MS;Sudeste;33
+94;Pedro Lucas Sales;59;Alimentos;2258.49;3894.88;yasmincastro@campos.br;PA;Sudeste;80
+95;Olivia Lopes;28;Eletrônicos;2256.8;730.1;da-cunhaemilly@goncalves.net;GO;Sul;100
+96;André Alves;22;Esportes;1517.79;4361.34;da-conceicaojoao-vitor@bol.com.br;RR;Nordeste;22
+97;Agatha Fernandes;77;Eletrônicos;2007.3;4504.67;rlopes@goncalves.com;GO;Nordeste;21
+98;Stella Martins;27;Esportes;4715.28;2326.38;vda-mata@ribeiro.org;SE;Norte;70
+99;Natália Fogaça;51;Esportes;2945.7;3647.27;da-rochamaria-luiza@bol.com.br;SP;Sul;4
+100;João Miguel Rezende;54;Móveis;2953.8;3098.28;gabrielafogaca@gmail.com;ES;Sul;11
