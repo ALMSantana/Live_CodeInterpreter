@@ -1,7 +1,7 @@
 # Criar Ambiente Windows
 
 - python -m venv alura-live
-= alura-live\Scripts\activate
+- alura-live\Scripts\activate
 
 # Criar Ambiente Mac e Linux
 
